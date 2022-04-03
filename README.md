@@ -1,3 +1,3 @@
 # MAP
 
-Projeto para cadeira MAP UEPB 2021.2
+Laboratorios para cadeira MAP UEPB 2021.2
